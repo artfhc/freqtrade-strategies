@@ -19,6 +19,9 @@ We strongly recommend you to have coding and Python knowledge. Do not
 hesitate to read the source code and understand the mechanism of this 
 bot.
 
+## References
+Please check https://medium.com/@shanejones/how-i-set-up-freqtrade-a287db8966f
+
 ## Table of Content
 
 - [Free trading strategies](#free-trading-strategies)
